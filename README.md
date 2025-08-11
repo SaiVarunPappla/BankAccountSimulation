@@ -17,13 +17,10 @@ A **Java OOP project** simulating core banking operations like deposits, withdra
 - **Interactive CLI**:
   - Menu-driven interface for smooth user experience.
 
----
 
 ##  Sample Output
 
-!(output.png)
-
----
+![Sample Output](output.png)
 
 ##  How to Run
 
