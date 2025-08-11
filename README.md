@@ -20,7 +20,7 @@ A **Java OOP project** simulating core banking operations like deposits, withdra
 
 ##  Sample Output
 
-![Sample Output](output.png)
+![Sample Output](ouput.png)
 
 ##  How to Run
 
